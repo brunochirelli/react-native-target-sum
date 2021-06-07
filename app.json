@@ -1,0 +1,12 @@
+{
+  "name": "TargetSum",
+  "displayName": "TargetSum",
+  "expo": {
+    "name": "TargetSum",
+    "slug": "TargetSum",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
